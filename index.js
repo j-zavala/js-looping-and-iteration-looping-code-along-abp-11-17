@@ -5,3 +5,7 @@ function printBadges(name) {
   }
   return name;
 }
+
+const tailsNeverFails = () => {
+  Math.floor(Math.random())
+};
